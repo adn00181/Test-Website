@@ -1,0 +1,29 @@
+p {
+  font-size: 16px;
+}
+
+/* Specific styling for the indented paragraph */
+p.indented {
+  padding-left: 20px;
+}
+
+.right-aligned {
+  text-align: right;
+}
+
+.right-half {
+  width: 50%;          /* Take up half the page */
+  float: right;        /* Align this div to the right side of the page */
+  text-align: right;   /* Align the text inside to the right */
+}
+
+.left-third {
+  width: 33.3%;          /* Take up half the page */
+  float: left;        /* Align this div to the left side of the page */
+  text-align: left;   /* Align the text inside to the left */
+}
+
+.photo-caption {
+  clear: left;        /* Ensures this text starts below the floated image */
+  text-align: left;   /* Aligns the text to the left */
+  margin-top: 10px;   /* Adds some space between the image and caption */
