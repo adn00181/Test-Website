@@ -24,9 +24,9 @@
 
 <img src=https://media.licdn.com/dms/image/v2/D4E22AQG1OTgPGdsyfg/feedshare-shrink_1280/feedshare-shrink_1280/0/1712675009408?e=1733356800&v=beta&t=Y7CLzLgnB0FdtBY_CcLAtZoO_i8Xjf5qEmhHey_iscU alt="Bike Race" class="left-third">
 
-    <p class="photo-caption">This is an example of a photo that I pulled from <b>LinkedIn</b></p>
+    <p> class="photo-caption">This is an example of a photo that I pulled from <b>LinkedIn</b></p>
     
-    <p class="photo-caption">Of those, Pennsylvania has the most electoral votes at stake, with 19, followed by North Carolina and Georgia with 16 each, Michigan with 15, Arizona with 11, Wisconsin with 10, and Nevada with 6.<p>
+    <p> class="photo-caption">Of those, Pennsylvania has the most electoral votes at stake, with 19, followed by North Carolina and Georgia with 16 each, Michigan with 15, Arizona with 11, Wisconsin with 10, and Nevada with 6.<p>
 
 </body>
 </html>
